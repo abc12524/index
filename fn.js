@@ -91,3 +91,5 @@ function make_pow(n){
 
 var pow2 = make_pow(2);
 var pow3 = make_pow(3);
+
+//算是弄一个上来看看流程
